@@ -1,4 +1,4 @@
-# To view my personalized portfolio website, click the link the the "About" section. 
+<h1> To view my personalized portfolio website, click the link in the "About" section of this repository. <h1>
 
 
 Massively by HTML5 UP
