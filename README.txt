@@ -1,3 +1,6 @@
+<h1> To view my personalized portfolio website, click the link the the "About" section. </h1>
+
+
 Massively by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
